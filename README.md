@@ -1,4 +1,3 @@
-````md
 # 🍲 Food Recipe App
 
 A MERN stack application where users can add, edit, view, and favorite food recipes. It supports user authentication, recipe management, and favorites storage.
@@ -20,7 +19,7 @@ A MERN stack application where users can add, edit, view, and favorite food reci
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/your-username/food-recipe-app.git
-````
+
 
 ### 2. Setup Backend
 
@@ -73,3 +72,4 @@ JWT_SECRET=your_secret_key
 
 Do you also want me to add **sample user & recipe JSON data** in README so anyone testing can quickly insert into MongoDB?
 ```
+
